@@ -1,3 +1,4 @@
+package FirstPartOfLessons;
 public class Lesson20 { // Конструкторы
     public static void main(String[] args) {
         Human20 Human1 = new Human20("Bob",15);

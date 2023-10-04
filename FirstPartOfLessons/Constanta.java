@@ -1,3 +1,4 @@
+package FirstPartOfLessons;
 public class Constanta {
     public static void main(String[] args) {
         final int X = 10;

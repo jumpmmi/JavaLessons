@@ -1,3 +1,4 @@
+package FirstPartOfLessons;
 
 import java.util.Scanner;
 

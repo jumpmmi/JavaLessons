@@ -1,3 +1,4 @@
+package FirstPartOfLessons;
 public class Lesson25 {             //наследование
     public static void main(String[] args) {
         Animal animal = new Animal();

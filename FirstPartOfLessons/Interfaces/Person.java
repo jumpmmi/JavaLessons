@@ -1,4 +1,4 @@
-package Interfaces;
+package FirstPartOfLessons.Interfaces;
 
 public class Person implements Info {
 

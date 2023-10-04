@@ -1,3 +1,4 @@
+package FirstPartOfLessons;
 public class If {
     public static void main(String[] args) {
         int myInt = 15;

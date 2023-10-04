@@ -1,3 +1,4 @@
+package FirstPartOfLessons;
 public class Strings {
     public static void main(Strings[] args) {
         int x = 5;

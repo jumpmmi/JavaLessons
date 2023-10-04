@@ -1,3 +1,4 @@
+package FirstPartOfLessons;
 public class Animal {
 
     String name = "Some animal";

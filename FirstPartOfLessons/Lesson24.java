@@ -1,3 +1,4 @@
+package FirstPartOfLessons;
 public class Lesson24 {                 //переопределение класса toString
     public static void main(String[] args) {
         Human24 h1 = new Human24("Artsiom", 25);
